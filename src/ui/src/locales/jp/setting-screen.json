@@ -1,0 +1,12 @@
+{
+  "settingScreen": {
+    "userName": "ユーザ名",
+    "measurementTime": "計測間隔",
+    "calculationTime": "計測時間",
+    "requiredText": "* 必須フィールド",
+    "devicename": "装置名",
+    "startBtn": "始める",
+    "stopBtn": "止まる",
+    "saveSettingBtn": "設定反映"
+  }
+}

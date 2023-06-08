@@ -1,0 +1,47 @@
+.annotation-tool-container {
+	height: 100%;
+	width: 100%;
+}
+
+.editor {
+	height: 40px;
+	position: relative;
+}
+
+.toolbar {
+	color: rgb(0, 0, 0);
+	float: right;
+	z-index: 2015;
+}
+
+.image-container {
+	align-items: center;
+	height:  calc(100vh - 290px);
+}
+.separator {
+	height: 20px;
+}	
+
+.toolbar__button {
+	cursor: pointer;
+	border-width: 0;
+	cursor: pointer;
+	display: block;
+	float: left;
+	text-align: center;
+}
+
+.toolbar__button:hover {
+	transform: scale(1.2);
+}
+
+.label {
+	color: rgb(0, 0, 0);
+	float: left;
+	z-index: 2015;
+}
+
+.image {
+	max-width: 100%;
+    max-height: 100%;
+}

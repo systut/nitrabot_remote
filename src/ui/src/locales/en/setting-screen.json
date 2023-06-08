@@ -1,0 +1,12 @@
+{
+  "settingScreen": {
+    "userName": "User Name",
+    "measurementTime": "Duration",
+    "calculationTime": "Interval",
+    "requiredText": "* Required",
+    "devicename": "Device Name",
+    "startBtn": "START",
+    "stopBtn": "STOP",
+    "saveSettingBtn": "SAVE"
+  }
+}

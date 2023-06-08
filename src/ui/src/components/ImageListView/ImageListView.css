@@ -1,0 +1,73 @@
+/*-------------------------
+    List layout
+--------------------------*/
+.image-list-view-container {
+    height: 100%;
+    width: 100%;
+}
+
+.list-container {
+	overflow-y: scroll;
+}
+
+.list {
+	height: calc(100vh - 190px);
+    text-align: left;
+    margin-top: 40px;
+}
+
+.list .list-views-container {
+    margin: unset;
+    overflow: hidden;
+	height: 180px;
+}
+
+.image-container {
+	width: 100%;
+}
+
+.selected {
+    background-color: #fff44f;
+}
+
+.unselected {
+    background-color: #ffffff;
+}
+
+.list .list-views-container p {
+    font-size: 15px;
+    font-weight: bold;
+    color:#000000;
+    margin: auto 0;
+	margin-left: 10px;
+}
+
+.editor {
+	height: 100%;
+	position: relative;
+}
+
+.toolbar {
+	color: rgb(0, 0, 0);
+	float: right;
+	z-index: 2015;
+}
+
+.label {
+	color: rgb(0, 0, 0);
+	float: left;
+	z-index: 2015;
+}
+
+.toolbar__button {
+	cursor: pointer;
+	border-width: 0;
+	cursor: pointer;
+	display: block;
+	float: left;
+	text-align: center;
+}
+
+.toolbar__button:hover {
+	transform: scale(1.2);
+}

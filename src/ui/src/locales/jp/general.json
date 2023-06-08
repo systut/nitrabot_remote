@@ -1,0 +1,11 @@
+{
+	"general": {
+		"errorMessage": "エラーメッセージ",
+		"successMessage": "成功メッセージ",
+		"invalidMessage": "フォームデータが無効です! フォームを確認してください。",
+		"startErrorMessage": "測定開始に失敗しました!",
+		"stopErrorMessage": "測定停止に失敗しました!",
+		"saveErrorMessage": "保存設定に失敗しました!",
+		"saveSuccessMessage": "設定を正常に保存!"
+	}
+}

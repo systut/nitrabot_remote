@@ -1,0 +1,11 @@
+{
+	"general": {
+		"errorMessage": "Error Message",
+		"successMessage": "Success Message",
+		"invalidMessage": "Invalid form data! Please check your form.",
+		"startErrorMessage": "Start measurement failed!",
+		"stopErrorMessage": "Stop measurement failed!",
+		"saveErrorMessage": "Save setting failed!",
+		"saveSuccessMessage": "Save setting successfully!"
+	}
+}
